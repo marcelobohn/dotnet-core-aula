@@ -1,0 +1,10 @@
+/Users/marcelo/dotnet/2017/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.deps.json
+/Users/marcelo/dotnet/2017/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.runtimeconfig.json
+/Users/marcelo/dotnet/2017/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.runtimeconfig.dev.json
+/Users/marcelo/dotnet/2017/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.dll
+/Users/marcelo/dotnet/2017/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.pdb
+/Users/marcelo/dotnet/2017/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.csproj.CoreCompileInputs.cache
+/Users/marcelo/dotnet/2017/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.AssemblyInfoInputs.cache
+/Users/marcelo/dotnet/2017/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.AssemblyInfo.cs
+/Users/marcelo/dotnet/2017/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.dll
+/Users/marcelo/dotnet/2017/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.pdb
