@@ -10,7 +10,7 @@ namespace console_dotnet
             // Console.WriteLine("Hello World!");
             Console.WriteLine(nome);
 
-            double valor = 2.2;
+            /*double valor = 2.2;
             double quantidade = 6.234;
             double resultado = valor * quantidade;
 
@@ -26,6 +26,15 @@ namespace console_dotnet
             InverteString inversor = new InverteString();
             inversor.inverte("instituto");
             System.Console.WriteLine(inversor.exibeUltimaInversao());
+            */
+
+            Human h = new Human();
+            if (h.validate()) {
+                System.Console.WriteLine("Acertou!!");
+            } else {
+                System.Console.WriteLine("Errroou!!");
+            }
+
         }
     }
 }
